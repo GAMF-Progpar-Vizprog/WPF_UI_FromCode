@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WPF_UIFromCode
+namespace WPF_UI_FromCode
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using System.Windows.Controls.Primitives;
 
-namespace WPF_UIFromCode
+namespace WPF_UI_FromCode
 {
 	public partial class wndMain : Window
 	{
